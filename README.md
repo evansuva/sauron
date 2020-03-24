@@ -1,5 +1,7 @@
 # One Neuron to Fool Them All
 
+This repository has the code for the experiments in this paper: [https://arxiv.org/abs/2003.09372](https://arxiv.org/abs/2003.09372)
+
 ## Prerequisites
 
 - Install [this](https://github.com/iamgroot42/robustness) fork of the robustness package `pip install -e robustness`
